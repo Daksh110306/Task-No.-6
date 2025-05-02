@@ -1,5 +1,5 @@
 Task-No.-6
-# K-Nearest Neighbors (KNN) Classification - Iris Dataset 🌸
+# K-Nearest Neighbors (KNN) Classification - Iris Dataset 
 
 This project implements a basic **K-Nearest Neighbors (KNN)** classification model using the popular **Iris dataset**. It demonstrates how to preprocess data, train a KNN classifier, evaluate the model, and visualize decision boundaries.
 
